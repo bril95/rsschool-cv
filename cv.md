@@ -1,6 +1,6 @@
 # CV: **Бриль Вадим Матвеевич**
 ## Contacts:
-e-mail: *bril.vdim@mail.ru*
+e-mail: *bril.vadim@mail.ru*
 telegram: *just_bril*
 ## Education:
 БГТУ "Военмех"
