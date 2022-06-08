@@ -1,1 +1,1 @@
-# rsschool-cv
+https://bril95.github.io/rsschool-cv/cv
